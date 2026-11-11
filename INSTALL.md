@@ -2,6 +2,9 @@
 
 For KiCad 10. Python and openEMS need no manual setup: openEMS (GPL) is downloaded on the first run.
 
+A step-by-step guide for first-time users with screenshots is in `docs/install/rfsim_install_guide.pdf`
+(also in the docs pack).
+
 ## Downloads
 
 | File | Content |
@@ -9,6 +12,7 @@ For KiCad 10. Python and openEMS need no manual setup: openEMS (GPL) is download
 | `kicad-rfsim-pcm-X.zip` | Plugin for the KiCad Plugin and Content Manager |
 | `kicad-rfsim-plugin-X.zip` | Plugin for a manual install |
 | `kicad-rfsim-docs-X.zip` | User manual (PDF and LaTeX), quick start, user guide, validation notes, TI CC-Antenna-DK2 verification report |
+| `kicad-rfsim-boards-X.zip` | The validation boards (50 Ω line, filters, antennas) and the TI CC-Antenna-DK2 boards as KiCad projects |
 | `kicad-rfsim-verification-X.zip` | Verification test bench: generated boards, expected values, scripts, report, TI comparison scripts and results |
 | `SHA256SUMS.txt` | Checksums of all files |
 

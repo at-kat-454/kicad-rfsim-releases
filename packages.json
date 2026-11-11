@@ -14,11 +14,11 @@
       "resources": {},
       "versions": [
         {
-          "version": "0.26.3",
+          "version": "0.26.4",
           "status": "testing",
           "kicad_version": "10.0",
-          "download_url": "https://at-kat-454.github.io/kicad-rfsim-releases/kicad-rfsim-pcm-0.26.3.zip",
-          "download_sha256": "3296246b6ba1207c9c26172813cf8bb829fddfc1c0dfc304ff7b22cba4d70927",
+          "download_url": "https://at-kat-454.github.io/kicad-rfsim-releases/kicad-rfsim-pcm-0.26.4.zip",
+          "download_sha256": "1c9e095b6e93aa967ce1a1693fba435a9585aaf9ebd664e4e6ad59d6aa8c00c3",
           "download_size": 294711,
           "install_size": 855655
         }
