@@ -1,0 +1,20 @@
+{
+  "$schema": "https://go.kicad.org/pcm/schemas/v1#/definitions/Repository",
+  "name": "RF Sim for KiCad",
+  "maintainer": {
+    "name": "Felix Kuhnert",
+    "contact": {}
+  },
+  "packages": {
+    "url": "https://at-kat-454.github.io/kicad-rfsim-releases/packages.json",
+    "sha256": "fa2908e05b27c12a620a85c433a942e42b70b6ddb52f69f7bcd9ad65008ebd48",
+    "update_timestamp": 1794389167,
+    "update_time_utc": "2026-11-11 09:26:07"
+  },
+  "resources": {
+    "url": "https://at-kat-454.github.io/kicad-rfsim-releases/resources.zip",
+    "sha256": "150cb27b2ec084c0dc1d223c4f70071c62b78f3ac4a91bb3329fb915b2e3732b",
+    "update_timestamp": 1794389167,
+    "update_time_utc": "2026-11-11 09:26:07"
+  }
+}

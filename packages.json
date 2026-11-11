@@ -1,0 +1,28 @@
+{
+  "packages": [
+    {
+      "name": "RF Sim",
+      "description": "PCB antenna and RF chain simulation with openEMS",
+      "description_full": "Layout-aware RF simulation for KiCad 10 with openEMS: antenna simulation (impedance, efficiency, 3D radiation pattern, casing), matching-network tuning with E24 or real vendor parts and autotune, a mesh inspector, and values written back to the board. openEMS (GPL) is downloaded on the first run.",
+      "identifier": "io.github.kicad-rfsim",
+      "type": "plugin",
+      "author": {
+        "name": "Felix Kuhnert",
+        "contact": {}
+      },
+      "license": "MIT",
+      "resources": {},
+      "versions": [
+        {
+          "version": "0.26.3",
+          "status": "testing",
+          "kicad_version": "10.0",
+          "download_url": "https://at-kat-454.github.io/kicad-rfsim-releases/kicad-rfsim-pcm-0.26.3.zip",
+          "download_sha256": "3296246b6ba1207c9c26172813cf8bb829fddfc1c0dfc304ff7b22cba4d70927",
+          "download_size": 294711,
+          "install_size": 855655
+        }
+      ]
+    }
+  ]
+}
