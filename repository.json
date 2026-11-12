@@ -7,14 +7,14 @@
   },
   "packages": {
     "url": "https://at-kat-454.github.io/kicad-rfsim-releases/packages.json",
-    "sha256": "bd36df55fb98b05d638ff3b22dff26a20f955af16941f34e72757a2c27b46212",
-    "update_timestamp": 1794405660,
-    "update_time_utc": "2026-11-11 14:01:00"
+    "sha256": "734d263760d36190867311fcaa378280a34b5f0f2f25558a6416d0f13812713f",
+    "update_timestamp": 1794488443,
+    "update_time_utc": "2026-11-12 13:00:43"
   },
   "resources": {
     "url": "https://at-kat-454.github.io/kicad-rfsim-releases/resources.zip",
-    "sha256": "bd7052ce907acbf046b9f15e2f695cf64b9adace02ab7fe74e82dce9edc1f026",
-    "update_timestamp": 1794405660,
-    "update_time_utc": "2026-11-11 14:01:00"
+    "sha256": "96ae0bfb861c25fb6d5919835f2595940e21f7a21c7bdb5c04edf55a61d6f50b",
+    "update_timestamp": 1794488443,
+    "update_time_utc": "2026-11-12 13:00:43"
   }
 }
